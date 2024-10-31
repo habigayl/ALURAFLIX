@@ -53,3 +53,19 @@ body {
 </body>
 
 </html>ection>
+body {
+    color: white;
+    background: black;
+}
+
+header {
+    border: solid 2px rgb(42, 122, 228);
+}
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+}
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
